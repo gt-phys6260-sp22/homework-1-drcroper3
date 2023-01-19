@@ -4,7 +4,7 @@ Name: Christopher Roper
 Modify this file as instructed in the assignment description on Canvas.
 
 ## 1a
-**_Yes, I do. Please visit [github account]_(https://github.com/drcroper3). _**
+**_Yes, I do. Please visit [github account]_(https://github.com/drcroper3). **
 
 ## 1b
 **_The programming languages that I know are python,MATLAB,SPS(Spectral Plasma Solver),and CPIC. The langauge that I am most comfortable with is python._**
